@@ -1,0 +1,5 @@
+build
+executable
+app
+__pycache__
+.vscode
